@@ -1,11 +1,9 @@
-# Installasjon av div for Windows Terminal
+# Installasjon av div for Windows Terminal (PowerShell)
 
 1. **Install PowerShell with winget (set to default in settings)**
     ```
         winget install --id Microsoft.Powershell --source winget
     ```
-
-
 
 2. **Install Oh My Posh**
     ```
